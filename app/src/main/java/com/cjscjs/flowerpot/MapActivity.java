@@ -10,7 +10,7 @@ import com.nhn.android.maps.maplib.NGeoPoint;
 
 public class MapActivity extends NMapActivity {
 
-    String clientID="1lSxEh5N2CKbtNuC70z0";
+    String clientID="1lSxEh5N2CKbtNuC70z0"; 
 
     NMapView mapView;
     NMapController mapController;
